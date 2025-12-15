@@ -1,7 +1,7 @@
 ```python
 class BLZRosa:
     def __init__(self) -> None:
-        self.name: str = 'Bruno Rosa'
+        self.name: str = 'Rosa, B. L. Z.'
         self.age: int = 19
         self.interests: List[str] = [
             'Programming',
