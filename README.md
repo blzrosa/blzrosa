@@ -1,5 +1,5 @@
 ```python
-class BrunoRosa:
+class BLZRosa:
     def __init__(self) -> None:
         self.name: str = 'Bruno Rosa'
         self.age: int = 19
