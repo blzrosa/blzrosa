@@ -1,6 +1,3 @@
-
-<img width="20%" src="assets/img/kanade.jpeg" alt="kanade" /><img width="20%" src="assets/img/mafuyu.jpeg" alt="mafuyu" /><img width="20%" src="assets/img/miku.jpeg" alt="miku" /><img width="20%" src="assets/img/mizuki.jpeg" alt="mizuki" /><img width="20%" src="assets/img/ena.jpeg" alt="ena" />
-
 ```python
 class BrunoRosa:
     def __init__(self) -> None:
@@ -10,7 +7,7 @@ class BrunoRosa:
             'Programming',
             'Data Science',
             'VOCALOID',
-            'Nightcord',
+            'Nightcord at 25:00',
         ]
         self.skills: Dict[str, List[str]] = {
             'Languages': [
