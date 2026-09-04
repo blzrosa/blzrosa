@@ -2,10 +2,11 @@
 class BLZRosa:
     def __init__(self) -> None:
         self.name: str = 'Rosa, B. L. Z.'
-        self.age: int = 19
+        self.age: int = 20
         self.interests: List[str] = [
             'Programming',
             'Data Science',
+            'Machine Learning',
             'VOCALOID',
             'Nightcord at 25:00',
         ]
